@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "eHOF"]
+	path = eHOF
+	url = https://github.com/cran/eHOF
+	shallow = true
+	registered = true
+[submodule "vegdata"]
+	path = vegdata
+	url = https://github.com/cran/vegdata
+	shallow = true
+	registered = true
