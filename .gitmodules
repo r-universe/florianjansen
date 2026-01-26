@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "eHOF"]
-	path = eHOF
-	url = https://github.com/cran/eHOF
 [submodule "vegdata"]
 	path = vegdata
 	url = https://github.com/cran/vegdata
